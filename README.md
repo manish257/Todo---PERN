@@ -1,7 +1,7 @@
 # Todo---PERN
 PERN todo app made using:
 
-## Postgresql
-## React
-## Nodejs
+## PostgreSQL
+## ReactJS
+## NodeJS
 ## Express
