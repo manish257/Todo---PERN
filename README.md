@@ -2,6 +2,6 @@
 PERN todo app made using:
 
 ## PostgreSQL
-## ReactJS
-## NodeJS
-## Express
+## React
+## Node.js
+## Express.js
