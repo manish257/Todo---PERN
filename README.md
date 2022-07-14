@@ -1,5 +1,5 @@
 # Todo---PERN
-PERN todo app made using:
+To-Do app made using:
 
 ## PostgreSQL
 ## React
