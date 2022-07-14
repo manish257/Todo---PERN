@@ -1,4 +1,4 @@
-# Todo---PERN
+# Todo-PERN
 To-Do app made using:
 
 ## PostgreSQL
